@@ -8,5 +8,10 @@ html {
   right: 0;
 }
 
-/* Write your solution here */
-
+@media only screen (max-width: 1196px)  {
+  #bear{
+  position:relative;
+  top:800 px;
+  right:0px;
+  }
+}
